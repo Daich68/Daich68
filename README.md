@@ -2,7 +2,6 @@
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 ![p5.js](https://img.shields.io/badge/-p5.js-090909?style=for-the-badge&logo=p5dotjs&logoColor=ED225D)
 ![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=Blender&logoColor=F5792A)
