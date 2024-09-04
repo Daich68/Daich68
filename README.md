@@ -3,7 +3,6 @@
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![Figma](https://img.shields.io/badge/Figma?style=for-the-badge&logo=figma)
 
 
 
